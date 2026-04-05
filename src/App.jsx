@@ -55,7 +55,7 @@ const App = () => {
         <input
           type="text"
           ref={inputRef}
-          placeholder="Enter a new task..."
+          placeholder="Add your todo..."
           className="input-box"
         />
         <button type="submit" className="btn">
